@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="潘露史徒堂" group-title="未分类", 潘露史徒堂
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=4ilIj1pdY7k&P=720
+#EXTINF:-1 tvg-name="台视新闻" group-title="台湾tv", 台视新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=xL0ch83RAK8&P=1080
+#EXTINF:-1 tvg-name="电玩科技" group-title="数码博主", 电玩科技
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=jagkC9S48l0&P=1080
+#EXTINF:-1 tvg-name="中天直播" group-title="台湾tv", 中天直播
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=RU0rxLMZvbQ&P=1080
+#EXTINF:-1 tvg-name="三立新闻" group-title="台湾tv", 三立新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=8PHze5PTzP0&P=1080
+#EXTINF:-1 tvg-name="BBC_cn" group-title="其他", BBC_cn
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_nDOzLHHYSQ&P=1080
+#EXTINF:-1 tvg-name="TVBS" group-title="台湾tv", TVBS
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Dl_AESQnlcE&P=1080
+#EXTINF:-1 tvg-name="香港无线" group-title="香港tv", 香港无线
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=nfNI1v9BOnM&P=1080
